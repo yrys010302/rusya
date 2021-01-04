@@ -1,0 +1,5 @@
+function plus(a, b) {
+   alert("21 * 24 = " + a * b)
+}
+
+plus(21, 24)
